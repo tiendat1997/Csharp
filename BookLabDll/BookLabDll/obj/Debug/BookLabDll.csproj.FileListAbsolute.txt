@@ -1,0 +1,6 @@
+E:\FPT\Semester 5\C#\Dev\lab\BookLabDll\BookLabDll\bin\Debug\BookLabDll.dll
+E:\FPT\Semester 5\C#\Dev\lab\BookLabDll\BookLabDll\bin\Debug\BookLabDll.pdb
+E:\FPT\Semester 5\C#\Dev\lab\BookLabDll\BookLabDll\obj\Debug\BookLabDll.csprojResolveAssemblyReference.cache
+E:\FPT\Semester 5\C#\Dev\lab\BookLabDll\BookLabDll\obj\Debug\BookLabDll.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 5\C#\Dev\lab\BookLabDll\BookLabDll\obj\Debug\BookLabDll.dll
+E:\FPT\Semester 5\C#\Dev\lab\BookLabDll\BookLabDll\obj\Debug\BookLabDll.pdb
